@@ -1,0 +1,15 @@
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zadaniepootcnu\bin\Debug\net6.0\zadaniepootcnu.exe
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zadaniepootcnu\bin\Debug\net6.0\zadaniepootcnu.deps.json
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zadaniepootcnu\bin\Debug\net6.0\zadaniepootcnu.runtimeconfig.json
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zadaniepootcnu\bin\Debug\net6.0\zadaniepootcnu.dll
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zadaniepootcnu\bin\Debug\net6.0\zadaniepootcnu.pdb
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zadaniepootcnu\obj\Debug\net6.0\zadaniepootcnu.csproj.AssemblyReference.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zadaniepootcnu\obj\Debug\net6.0\zadaniepootcnu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zadaniepootcnu\obj\Debug\net6.0\zadaniepootcnu.AssemblyInfoInputs.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zadaniepootcnu\obj\Debug\net6.0\zadaniepootcnu.AssemblyInfo.cs
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zadaniepootcnu\obj\Debug\net6.0\zadaniepootcnu.csproj.CoreCompileInputs.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zadaniepootcnu\obj\Debug\net6.0\zadaniepootcnu.dll
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zadaniepootcnu\obj\Debug\net6.0\refint\zadaniepootcnu.dll
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zadaniepootcnu\obj\Debug\net6.0\zadaniepootcnu.pdb
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zadaniepootcnu\obj\Debug\net6.0\zadaniepootcnu.genruntimeconfig.cache
+C:\Users\skele\OneDrive\Рабочий стол\ECTS\Практика\zadaniepootcnu\obj\Debug\net6.0\ref\zadaniepootcnu.dll
